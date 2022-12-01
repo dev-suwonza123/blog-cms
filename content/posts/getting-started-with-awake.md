@@ -1,5 +1,5 @@
 ---
-title: หน้าบล็อก บทความ ส้วนบุคคล
+title: หน้าบล็อก บทความ ส่วนบุคคล
 subtitle: Get Up and Running with Awake
 category:
   - About Awake
