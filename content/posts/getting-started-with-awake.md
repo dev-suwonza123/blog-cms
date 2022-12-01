@@ -9,7 +9,7 @@ featureImage: /uploads/getting-started-hero.jpg
 ---
 Awake เป็นเทมเพลต Nuxt.js สำหรับสร้างไซต์คงที่ที่สวยงามพร้อมบล็อก .
 
-# ทดสอบแก้ไขหน้าเพจ [ตามคำแนะนำของ](https://www.facebook.com/nantach.prescott.3)
+# ทดสอบแก้ไขหน้าเพจ [ตามคำแนะนำของคนนี้](https://www.facebook.com/nantach.prescott.3)
 
 * Simple modern design based on the Bulma css framework (with unused css purged via [purgecss](https://www.purgecss.com/))
 * Site search
