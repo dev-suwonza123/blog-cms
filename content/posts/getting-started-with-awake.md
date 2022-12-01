@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: หน้าบล็อก บทความ ส้วนบุคคล
 subtitle: Get Up and Running with Awake
 category:
   - About Awake
