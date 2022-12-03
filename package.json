@@ -76,5 +76,15 @@
     "vue": "2.6.12",
     "vue-server-renderer": "2.6.12",
     "vue-template-compiler": "2.6.12"
-  }
+  },
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-suwonza123/blog-cms.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/dev-suwonza123/blog-cms/issues"
+  },
+  "homepage": "https://github.com/dev-suwonza123/blog-cms#readme"
 }
