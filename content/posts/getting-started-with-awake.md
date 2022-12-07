@@ -1,8 +1,9 @@
 ---
 title: หน้าบล็อก บทความ ส่วนบุคคล
 subtitle: Get Up and Running with Awake
+description: สำหรับสร้างไซต์คงที่ที่สวยงามพร้อมบล็อก
 category: - About Awake
-author: Daniel Kelly
+author: dev-suwonza123
 date: 2019-08-03T19:59:59.000Z
 featureImage: /uploads/getting-started-hero.jpg
 ---
